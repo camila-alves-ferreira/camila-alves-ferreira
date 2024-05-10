@@ -1,12 +1,13 @@
-### Oi! Aqui é a Camila, estudante de Análise e Desenvolvimento de Sistemas e aspirante à Analista de Dados! 👋
+### Oi! Aqui é a Camila, estudante de Análise e Desenvolvimento de Sistemas e de Engenharia da Computação e aspirante à Analista de Dados! 👋
 
-## 👩🏻‍💻 📊 Um pouquinho sobre mim:
+## 👩🏻‍💻 Um pouquinho sobre mim:
 <div>
    <p> Sou estudante da área tecnologia fascinada pela área de dados e em busca de aprender mais através de projetos.
    </p>
+   <img src="https://gist.github.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif">
 </div>
 
-## 💻 🚀 Minhas tecnologias
+## 💻 Minhas tecnologias
 
 <div style="display: inline_block">
 
@@ -14,10 +15,6 @@
     
    <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-          
-   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />                
-</div>
 
 ## 🌐 Onde me encontrar
   
