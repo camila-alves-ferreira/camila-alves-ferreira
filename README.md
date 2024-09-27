@@ -1,7 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=daf04f&height=120"/>
 <h1>Oi!<img src="https://gifdb.com/images/high/waving-hand-emoticon-bye-iv3dmo7t5vdlvr8m.gif" width="40px" height="40px" style="max-width: 10%;"></h1> 
 <p>Aqui é a Camila, estudante de Análise e Desenvolvimento de Sistemas e de Engenharia da Computação e aspirante à Analista de Dados. </p>
-<img src="https://media1.tenor.com/m/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif" width="400" height="300" />
+<img src="https://media1.tenor.com/m/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif" width="300" height="200" />
 
 ## Um pouquinho sobre mim:
 <div>
