@@ -1,4 +1,5 @@
-### Oi! Aqui é a Camila, estudante de Análise e Desenvolvimento de Sistemas e de Engenharia da Computação e aspirante à Analista de Dados
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=daf04f&height=120"/>
+Oi! Aqui é a Camila, estudante de Análise e Desenvolvimento de Sistemas e de Engenharia da Computação e aspirante à Analista de Dados
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J4cmU5em5mN2J1NGh3amsyOTZkeGt3aXVrZDM2aHVtcWJ0d2R2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp" width="400" height="300" />
 
 ## 👩🏻‍💻 Um pouquinho sobre mim:
@@ -29,6 +30,7 @@
 
 <div align="center">
   <a href="https://github.com/camila-alves-ferreira">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=camila-alves-ferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camila-alves-ferreira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=camila-alves-ferreira&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camila-alves-ferreira&layout=compact&langs_count=7"/>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=daf04f&height=120&section=footer"/>
