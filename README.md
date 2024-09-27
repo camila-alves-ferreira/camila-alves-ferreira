@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=daf04f&height=120"/>
-Oi! Aqui é a Camila, estudante de Análise e Desenvolvimento de Sistemas e de Engenharia da Computação e aspirante à Analista de Dados
+<h1>Oi!<img src="https://gifdb.com/images/high/waving-hand-emoticon-bye-iv3dmo7t5vdlvr8m.gif" width="40px" height="40px" style="max-width: 10%;"></h1> 
+<p>Aqui é a Camila, estudante de Análise e Desenvolvimento de Sistemas e de Engenharia da Computação e aspirante à Analista de Dados </p>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J4cmU5em5mN2J1NGh3amsyOTZkeGt3aXVrZDM2aHVtcWJ0d2R2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp" width="400" height="300" />
 
 ## 👩🏻‍💻 Um pouquinho sobre mim:
