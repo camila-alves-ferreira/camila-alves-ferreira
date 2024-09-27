@@ -1,4 +1,5 @@
-### Oi! Aqui é a Camila, estudante de Análise e Desenvolvimento de Sistemas e de Engenharia da Computação e aspirante à Analista de Dados! 👋
+### Oi! Aqui é a Camila, estudante de Análise e Desenvolvimento de Sistemas e de Engenharia da Computação e aspirante à Analista de Dados
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3J4cmU5em5mN2J1NGh3amsyOTZkeGt3aXVrZDM2aHVtcWJ0d2R2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp" width="400" height="300" />
 
 ## 👩🏻‍💻 Um pouquinho sobre mim:
 <div>
